@@ -10,5 +10,5 @@ Design and documentation
 
 ## Language design
 
-![TODO](https://github.com/THeEupieProject/Design/blobl/main/Eupie_Pipeline.png?raw=true)
+![TODO](https://github.com/TheEupieProject/Design/blob/main/Eupie_Pipeline.png?raw=true)
 
