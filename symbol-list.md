@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Symbol list and testing
 
 ## Syntax
@@ -11,6 +12,9 @@ When writing a full document, a markdown-like syntax applies:
 ## Some examples
 
 > _Note: This is far from being finished (changes will occur), and far from being complete._
+=======
+> _Note: This is far from being finished (changes will occur), and far from being complete. Github LaTeX support is partial._
+>>>>>>> 9a5df3c9eae97e0da99a0a4701055f61d10315ba
 
 | Symbol                                                   | Eupie example                                                         | LaTeX version                                            |
 | -------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------- |
