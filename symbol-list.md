@@ -1,4 +1,4 @@
-> _Note: This is far from being finished (changes will occur), and far from being complete._
+> _Note: This is far from being finished (changes will occur), and far from being complete. Github LaTeX support is partial._
 
 | Symbol                                                   | Eupie example                                                         | LaTeX version                                            |
 | -------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------- |
